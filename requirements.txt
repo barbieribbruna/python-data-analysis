@@ -1,0 +1,9 @@
+# requeriments.txt lista todas as bibliotecas necessárias para executar o projeto
+# isso permite que qualquer pessoa instale todas as dependências utilizando: pip install -r requeriments.txt
+
+pandas          # biblioteca principal para manipulação e análise de dados
+numpy           # biblioteca para operações matemáticas e arrays numéricos
+matplotlib      # biblioteca para criação de gráficos e visualizações
+scipy           # biblioteca para cálculos e testes estatísticos
+openpyxl        # biblioteca utilizada pelo pandas para leitura de arquivos Excel (.xlsx
+jupyter         # ferramentas para execução de notebooks Jupyter

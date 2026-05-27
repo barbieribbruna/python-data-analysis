@@ -1,0 +1,32 @@
+# .gitignore define quais arquivos/pastas NÃO devem ser enviados para o GitHub
+
+# Ignora ambientes virtuais locais do projeto
+venv/
+.venv/
+env/
+
+# Ignora arquivos temporários (cachês) gerados pelo Python
+__pycache__/
+*.pyc
+
+# Ignora checkpoints automáticos criados por notebooks Jupyter/Colab
+.ipynb_checkpoints/
+
+# Configurações do VS Code
+.vscode/
+
+# Ignora arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+
+# Banco SQLite temporário
+*.sqlite-shm
+*.sqlite-wal
+
+
+
+
+
