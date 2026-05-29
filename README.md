@@ -29,6 +29,7 @@ Este projeto tem como objetivo praticar:
 - Plotly
 - Jupyter Notebook
 - VSCode
+- Looker Studio/Data Studio
 
 ---
 
@@ -141,6 +142,26 @@ Este projeto contribuiu para o desenvolvimento de conhecimentos em:
 - Tratamento e análise de outliers
 - Organização de fluxo analítico utilizando Jupyter Notebook
 - Debugging e resolução de erros em notebooks Python
+
+---
+
+## Dashboard
+
+O dashboard final foi desenvolvido no Looker Studio/Data Studio a partir da base tratada em Python.
+
+### Visualização do Dashboard (PDF)
+
+[📄 Abrir Dashboard em PDF](./dashboard_studio/data-studio-diversidade.pdf)
+
+### Prévia do Dashboard
+
+![Imagem do dashboard](./dashboard_studio/dashboard-diversidade-1.png)
+![Imagem do dashboard](./dashboard_studio/dashboard-diversidade-2.png)
+![Imagem do dashboard](./dashboard_studio/dashboard-diversidade-3.png)
+
+### Versão interativa
+
+🔗 Acesse o dashboard: [Data Studio Dashboard Diversidade](https://datastudio.google.com/reporting/51b40c4e-6f14-4b2d-a75c-65b85e690437)
 
 ---
 
