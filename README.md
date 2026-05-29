@@ -155,9 +155,9 @@ O dashboard final foi desenvolvido no Looker Studio/Data Studio a partir da base
 
 ### Prévia do Dashboard
 
-![Imagem do dashboard](./dashboard_studio/dashboard-diversidade-1.png)
-![Imagem do dashboard](./dashboard_studio/dashboard-diversidade-2.png)
-![Imagem do dashboard](./dashboard_studio/dashboard-diversidade-3.png)
+![Dashboard](./dashboard_studio/dashboard-diversidade-1.png)
+![Dashboard](./dashboard_studio/dashboard-diversidade-2.png)
+![Dashboard](./dashboard_studio/dashboard-diversidade-3.png)
 
 ### Versão interativa
 
