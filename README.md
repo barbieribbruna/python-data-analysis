@@ -145,6 +145,24 @@ Este projeto contribuiu para o desenvolvimento de conhecimentos em:
 
 ---
 
+## Aprendizado de Máquina
+
+No notebook `regressao_linear.ipynb` foram realizados:
+
+- Seleção e preparação das variáveis;
+- Tratamento de variáveis categóricas e numéricas;
+- Aplicação de One-Hot Encoding;
+- Divisão dos dados em treinamento e teste;
+- Padronização dos dados com StandardScaler;
+- Treinamento de modelo de Regressão Linear;
+- Realização de previsões;
+- Avaliação do modelo utilizando MAE, MSE e R²;
+- Análise dos coeficientes das variáveis.
+
+O objetivo foi compreender o fluxo básico de construção, treinamento e avaliação de um modelo de Machine Learning para previsão de salários.
+
+---
+
 ## Dashboard
 
 O dashboard final foi desenvolvido no Looker Studio/Data Studio a partir da base tratada em Python.
